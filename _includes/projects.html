@@ -17,17 +17,27 @@
   {% endif %}
 
   {% for project in projects.assignments %}
-    <div class="item">
+  <div class="item">
 
-      <span class="project-title">
-        <a href="{{ project.link }}">{{ project.title }}</a>
-      </span>
+    <div class="meta">
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
+      <div class="upper-row">
+        <h3 class="job-title">{{ project.title }}</h3>
+        <div class="time">{{ project.time }}</div>
+      </div><!--//upper-row-->
 
-    </div><!--//item-->
+      <div class="company">{{ project.college }}</div>
+      <div class="company">{{ project.mentor }}</div>
+
+    </div><!--//meta-->
+
+    {% if project.details %}
+    <div class="details">
+      {{ project.details | markdownify }}
+    </div><!--//details-->
+    {% endif %}
+
+  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->

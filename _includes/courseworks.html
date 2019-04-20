@@ -1,0 +1,22 @@
+{% assign courseworks = site.data.data.sidebar.courseworks %}
+{% if courseworks %}
+<div class="interests-container container-block">
+
+  <h2 class="container-block-title">
+    Coursework/Electives
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {% for coursework in courseworks  %}
+
+      {% if coursework.link %}
+      <li><a href="{{ coursework.link }}">{{ coursework.item }}</a></li>
+      {% else %}
+      <li>{{ coursework.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//coursework-->
+{% endif %}
