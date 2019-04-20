@@ -7,41 +7,38 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Manish Kumar
+    tagline: Machine Intelligence
     avatar: profile_picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: manish.k3209@gmail.com, 201811085@daiict.ac.in
+    phone: +91 7838061760
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: manish-kumar-3209
+    github: manish2393cool
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@mkyadav2393'
+    stack-overflow: 8097518/manny-23 # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
+      - item: Photography
         link:
 
       - item: Cooking
+        link:
+
+      - item: Athletics
         link:
 
 career-profile:
