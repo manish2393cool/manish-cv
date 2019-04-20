@@ -138,7 +138,7 @@ projects:
         college: Dhirubhai Ambani Institute of Information and Communication Technology
         mentor: "Prof. P.M. Jat"
         details: The project helps to predict  the daily tweets for airline organization, in order to find further insights on 
-        the most important aspect of services that they could improve given customers’ complaints.
+                 the most important aspect of services that they could improve given customers’ complaints.
 
       - title: Implementation of CUI based OS with Minimalistic Features
         time: Aug,2014 -  May,2015
