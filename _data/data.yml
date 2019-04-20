@@ -57,7 +57,7 @@ education:
     - degree: M.Tech - Information and Communication Technology
       university: Dhirubhai Ambani Institute of Information and Communication Technology
       time: 2018 - 2020
-      cgpa: CGPA: 7.22
+      cgpa: CGPA- 7.22
       details: |
         Describe your study here 
           - Bullet point
@@ -65,7 +65,7 @@ education:
     - degree: B.Tech - Computer Science and Engineering
       university: I.M.S. Engineering College, Ghaziabad
       time: 2011 - 2015
-      cgpa: Percentage: 75.52%
+      cgpa: Percentage- 75.52%
       details: |
         Describe your study here 
           - Bullet point
@@ -73,7 +73,7 @@ education:
     - degree: SSC and HSC
       university: Harmilap Mission School, Kanpur
       time: 2009 - 2011
-      cgpa: SSC: 67.8%, HSC: 91.0%
+      cgpa: SSC- 67.8%, HSC- 91.0%
       details: |
         Describe your study here 
           - Bullet point
