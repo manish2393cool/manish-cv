@@ -12,10 +12,10 @@ sidebar:
     avatar: profile_picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: manish.k3209@gmail.com, 201811085@daiict.ac.in
-    phone: +91 7838061760
+    email: manish.k3209@gmail.com, manish_k@daiict.ac.in
+    phone: +91-7838061760
     website: manish2393cool.github.io/ #do not add http://
-    linkedin: manish-kumar-3209
+    linkedin: manishk32-ml
     github: manish2393cool
     gitlab:
     bitbucket:
